@@ -15,7 +15,7 @@
 > dataset in human history, a map of human behaviour and curiosity, simply waiting to be decoded. Anyone else want to reveal the hidden
 > architecture of human behavior?*
 >
-> **~ Anonymous**
+> Anonymous
 
 ---
 
