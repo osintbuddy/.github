@@ -31,6 +31,7 @@ OSINTBuddy transforms scattered data points into actionable intelligence network
 > [!CAUTION] 
 >
 > **⚠️ Experimental Software** (Alpha)
+>
 > OSINTBuddy is currently experimental software. We're not quite ready for action. We can't yet recommend using the project for anything serious. ⚠️ 
 
 
