@@ -20,7 +20,7 @@
 ---
 
 
-# OSINTBuddy: *Transformative Link Analysis for Open Source Intelligence*
+# OSINTBuddy: *Transformative Link Analysis*
 
 ---
 
