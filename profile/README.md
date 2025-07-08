@@ -13,8 +13,7 @@
 
 > *In the digital age, your footprint is your legacy. Every click, every search, every connection
 > tells a story. Multiply these digital
-> breadcrumbs across billions of users, and we encounter the greatest anthropological
-> dataset in human history, a map of human behaviour and curiosity, simply waiting to be decoded. Let's reveal the hidden architecture of human behavior.*
+> breadcrumbs across billions of users, and we encounter the greatest dataset in human history, a map of human behaviour and curiosity, simply waiting to be decoded. Revealing the hidden architecture of human behavior.*
 >
 > Anonymous
 
