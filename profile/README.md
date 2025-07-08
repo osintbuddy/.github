@@ -17,25 +17,20 @@
 >
 > Anonymous
 
----
-
 
 # OSINTBuddy: *Transformative Link Analysis*
 
----
-
-OSINTBuddy transforms scattered data points into actionable intelligence networks through visual discovery and an extensible plugin system. We're building an open-source alternative to proprietary OSINT tools, such as Maltego, that enables researchers to map relationships, identify patterns, and uncover insights that traditional methods can miss.
-
 ~ *Making advanced OSINT techniques accessible to everyone-from solo researchers to large organizations. [For free.](https://www.fsf.org/appeal)* ~
 
----
 
+OSINTBuddy transforms scattered data points into actionable intelligence networks through visual discovery and an extensible plugin system. We're building an open-source alternative to proprietary OSINT tools, such as Maltego, that enables researchers to map relationships, identify patterns, and uncover insights that traditional methods can miss.
 
 ## Project Status
 
 > [!CAUTION] 
 >
-> **⚠️ Experimental Software (Alpha) ⚠️** - OSINTBuddy is currently experimental software. We're not quite ready for action. We can't yet recommend using the project for anything serious.
+> **⚠️ Experimental Software** (Alpha)
+> OSINTBuddy is currently experimental software. We're not quite ready for action. We can't yet recommend using the project for anything serious. ⚠️ 
 
 
 ## What's OSINTBuddy?
