@@ -52,8 +52,8 @@ OSINTBuddy transforms scattered data points into actionable intelligence network
 | Repository | Description | Language |
 |------------|-------------|----------|
 | [`osintbuddy`](https://github.com/osintbuddy/osintbuddy) | Main application and backend | Rust, TypeScript |
-| [`plugins`](https://github.com/osintbuddy/plugins) | Plugin system and core entities | Python |
-| [`entities`](https://github.com/osintbuddy/entities) | Community entity definitions | Python |
+| [`plugins`](https://github.com/osintbuddy/plugins) | Python plugin system package you can find on PyPi | Python |
+| [`entities`](https://github.com/osintbuddy/entities) | Default entity definitions | Python |
 
 ## A Vision
 
