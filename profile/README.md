@@ -9,6 +9,8 @@
   </a>
 </p>
 
+---
+
 > *In the digital age, your footprint is your legacy. Every click, every search, every connection
 > tells a story. Multiply these digital
 > breadcrumbs across billions of users, and we encounter the greatest anthropological
