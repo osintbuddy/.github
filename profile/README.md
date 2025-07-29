@@ -13,12 +13,12 @@
 
 > *In the digital age, your footprint is your legacy. Every click, every search, every connection
 > tells a story. Multiply these digital
-> breadcrumbs across billions of users, and we encounter the greatest dataset in human history, a map of human behaviour and curiosity, simply waiting to be decoded. Revealing the hidden architecture of human behavior.*
+> breadcrumbs across billions of users, and we encounter the greatest dataset in human history, a map of human behaviour and curiosity, simply waiting to be decoded.*
 >
-> Anonymous
+> **Anonymous**
 
 
-# OSINTBuddy: *Transformative Link Analysis*
+# OSINTBuddy: Transformative Link Analysis
 
 ~ *Making advanced OSINT techniques accessible to everyone-from solo researchers to large organizations. [For free.](https://www.fsf.org/appeal)* ~
 
@@ -31,15 +31,15 @@ OSINTBuddy transforms scattered data points into actionable intelligence network
 >
 > **⚠️ Experimental Software (Alpha) ⚠️** 
 >
-> OSINTBuddy is currently experimental software. We're not quite ready for action. We can't yet recommend using the project for anything serious. 
+> OSINTBuddy is currently experimental software. We're not quite ready for action. We can't *yet* recommend using the project for anything serious. 
 
 
 ## What's OSINTBuddy?
 
 - **Visual Intelligence Made Simple**: Intuitive graph-based interface transforms complex data relationships into clear, interactive visualizations.
 - **Extensible Plugin Architecture**: Python-based plugin system allows custom entities to pull from any data source.
-- **Self-hosted**: Your data stays under your control with full privacy and security
-- **Cost-Effective**: Ditch the enterprise pricing, access advanced OSINT capabilities with free and open source software.
+- **Self-hosted**: Your data can stay under your control with full privacy and security
+- **Cost-Effective**: Ditch the enterprise pricing, access advanced OSINT capabilities with free open source software.
 
 ## Quick Start
  
