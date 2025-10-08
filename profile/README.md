@@ -2,7 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/osintbuddy/osintbuddy?style=flat-square)](https://github.com/osintbuddy/osintbuddy/stargazers)
 [![Issues](https://img.shields.io/github/issues/osintbuddy/osintbuddy?style=flat-square)](https://github.com/osintbuddy/osintbuddy/issues)
 [![PyPI Downloads](https://static.pepy.tech/badge/osintbuddy)](https://pepy.tech/project/osintbuddy)
-![Hits](https://komarev.com/ghpvc/?username=osintbuddy&label=Hits)
+![hits](https://komarev.com/ghpvc/?username=osintbuddy&label=hits)
 
 <p>
   <a href="https://github.com/osintbuddy/osintbuddy">
