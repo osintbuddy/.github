@@ -21,69 +21,84 @@
 
 # OSINTBuddy: Transformative Link Analysis
 
-~ *Making advanced OSINT techniques accessible to everyone-from solo researchers to large organizations. [For free.](https://www.fsf.org/appeal)* ~
+~ *Making advanced OSINT techniques accessible to everyone-from solo researchers to large organizations at affordable prices.* ~
 
 
-OSINTBuddy transforms scattered data points into actionable intelligence networks through visual discovery and an extensible plugin system. We're building an open-source alternative to proprietary OSINT tools, such as Maltego, that enables researchers to map relationships, identify patterns, and uncover insights that traditional methods can miss.
+OSINTBuddy is a professional intelligence analysis platform for investigators, researchers, and security teams who need **traceable, offline-first, graph-native workflows**. OSINTBuddy transforms scattered data points into actionable intelligence networks through visual discovery and an extensible open source plugin system. We're building an alternative to tools such as Maltego, that enables researchers and investigators to transform fragmented digital evidence into structured intelligence: entities, relationships, provenance, and hypotheses, all captured in a single analytical environment.
 
 ## Project Status
 
 > [!CAUTION] 
 >
-> **⚠️ Experimental Software (Alpha) ⚠️** 
+> **⚠️ Closed Beta ⚠️**
+> >
+> OSINTBuddy is under active development.  
+> Interfaces, data models, and APIs may change rapidly.
 >
-> OSINTBuddy is currently experimental software. We're not quite ready for action. We can't *yet* recommend using the project for anything serious. 
+> Early access is limited and intentionally gated.
 
 
 ## What's OSINTBuddy?
 
-- **Visual Intelligence Made Simple**: Intuitive graph-based interface transforms complex data relationships into clear, interactive visualizations.
-- **Extensible Plugin Architecture**: Python-based plugin system allows custom entities to pull from any data source.
-- **Self-hosted**: Your data can stay under your control with full privacy and security
-- **Cost-Effective**: Ditch the enterprise pricing, access advanced OSINT capabilities with free open source software.
+- **Graph-Native by Design**: Intuitive graph-based interfaces transform complex data relationships into clear, interactive visualizations. Entities, relationships, evidence, and hypotheses are first-class primitives.
+- **Extendable Intelligence Engine**: An open-source Python-based plugin system allows custom entities to pull from any data source.
+- **Offline-First, Local Control:**  Your data can stay under your control with full privacy. Investigations live on your machine. No mandatory cloud sync. No silent telemetry.
+- **Cost-Effective**: Ditch the enterprise pricing, pay for updates, own for life. We're enabling individuals and organization with access to advanced OSINT capabilities. 
 
-## Quick Start
- 
-*We're not quite ready for action yet but if you're interested in contributing to development please reach out to me by email at oss@osintbuddy.com*
+## Access & Availability
 
+The desktop OSINTBuddy application is **closed-source, proprietary software**. 
+
+Access is currently limited to:
+- Internal development
+- Selected early partners
+- Research collaborators
+
+There is no public download at this time.
+
+For access inquiries:
+**jerlendds@osintbuddy.com**
+
+In addition we also have an old open-source but uncompleted web/server version available at https://github.com/osintbuddy/web (**AGPL**) for those who are interested. 
 
 ## Repositories
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [`osintbuddy`](https://github.com/osintbuddy/osintbuddy) | Main application and backend | Rust, TypeScript |
+| [`osintbuddy`](https://github.com/osintbuddy/osintbuddy) | Open-source plugin registry | N/A |
 | [`plugins`](https://github.com/osintbuddy/plugins) | Python plugin system package you can find on PyPi | Python |
-| [`entities`](https://github.com/osintbuddy/entities) | Default entity definitions | Python |
+| [`entities`](https://github.com/osintbuddy/entities) | Default entity definitions | Python, JSON |
 
-## A Vision
+## A Vision and Roadmap
 
-We aspire to become more than just a data aggregation tool:
+- [ ] **Licensing** & update infrastructure  
+- [ ] **Temporal graph replay** & hypothesis evolution 
+- [ ] **AI integrations** for sentiment analysis, translation, LLMs, writing plugins, etc
+- [ ] **Provenance-aware** evidence capture
+- [ ] **Collaborative workspaces** for global knowledge sharing via secure P2P and or centralized collaboration mechanisms.  
+- [ ] **Real-time monitoring** for automated insights and pattern detection
 
-- **Collective Intelligence** - Collaborative workspaces for global knowledge sharing
-- **Real-time Monitoring** - Automated insights and pattern detection
-- **History Graphs** - Browser extension for seamless web exploration
-- **AI Integration** - Swarm intelligence, sentiment analysis, and evolutionary algorithms
+More details are intentionally not public.
 
 ## Community
 
+OSINTBuddy is currently developed by an individual aiming to grow into a small focused team.  
+There is no open contribution process.
+
+- **Website**: https://osintbuddy.com  
+- **Contact**: jerlendds@osintbuddy.com  
 - **Discord**: [Join our community](https://discord.gg/b8vW4J4skv) for discussions and support
 - **PyPI**: [Install the package](https://pypi.org/project/osintbuddy/) to get started
-- **Core Repositories**: [codeberg.org/osintbuddy/osintbuddy](https://codeberg.org/osintbuddy/osintbuddy) and [github.com/osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy/)
-## Contributing
+- **Public plugin registry**: [github.com/osintbuddy/osintbuddy](https://github.com/osintbuddy/osintbuddy/)
 
-We welcome contributions from everyone! Whether you're:
-- Writing documentation
-- Researching feature ideas  
-- Designing UX/UI
-- Creating plugins
-- Sharing and marketing the project
-- or anything else!
+If you are evaluating OSINTBuddy for:
+- *investigative journalism*
+- *security research*
+- *compliance & due diligence*  
+- *intelligence analysis*  
 
-Every contribution helps realize our vision for a cross-disciplinary information toolkit.
+reach out to me directly: **jerlendds@osintbuddy.com**
 
 ## License
 
-OSINTBuddy is released under the [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/).
-
-*Note: The [OSINTBuddy PyPI package](https://pypi.org/project/osintbuddy/) is MIT licensed*
-
+The [OSINTBuddy PyPI package](https://pypi.org/project/osintbuddy/) is MIT licensed.
