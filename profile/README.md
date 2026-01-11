@@ -66,8 +66,8 @@ In addition we also have an old open-source but uncompleted web/server version a
 | Repository | Description | Language |
 |------------|-------------|----------|
 | [`osintbuddy`](https://github.com/osintbuddy/osintbuddy) | Open-source plugin registry | N/A |
-| [`plugins`](https://github.com/osintbuddy/plugins) | Python plugin system package you can find on PyPi | Python |
-| [`entities`](https://github.com/osintbuddy/entities) | Default entity definitions | Python, JSON |
+| [`framework`](https://github.com/osintbuddy/framework) | Python plugin system framework you can find on PyPi | Python |
+| [`entities`](https://github.com/osintbuddy/plugins) | Default OSINTBuddy plugin definitions | Python, JSON |
 
 ## A Vision and Roadmap
 
